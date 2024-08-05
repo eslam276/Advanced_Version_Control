@@ -8,5 +8,6 @@ int main(void)
 	int var3 = 80 ;
 	
 	int f = 90 ;
+	int newVar = 20 ;
 
 }
