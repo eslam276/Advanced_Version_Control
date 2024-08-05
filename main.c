@@ -3,6 +3,6 @@
 int main(void)
 {
 	
-	int x = 10  ;
-	int y = 50 ;
+	int s = 30 ; 
+
 }
