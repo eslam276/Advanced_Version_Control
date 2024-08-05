@@ -11,4 +11,7 @@ int main(void)
 	int newVar = 20 ;
 	int master3 = 70 ;
 
+		int APP = 50 ;
+		
+		int app2 = 90 ;
 }
