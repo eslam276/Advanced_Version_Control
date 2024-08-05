@@ -9,5 +9,6 @@ int main(void)
 	
 	int f = 90 ;
 	int newVar = 20 ;
+	int master3 = 70 ;
 
 }
