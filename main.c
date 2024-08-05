@@ -9,7 +9,7 @@ int main(void)
 	  
 	  
 	  
-	int f = 90 ;
+	int h = 40  ;
 
 		int APP = 50 ;
 		
