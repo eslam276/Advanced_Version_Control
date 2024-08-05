@@ -9,7 +9,9 @@ int main(void)
 	  
 	  
 	  
+	int h = 40  ;
 	int f = 90 ;
+	int t = 90 ; 
 	int newVar = 20 ;
 	int master3 = 70 ;
 
